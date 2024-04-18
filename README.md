@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 LANGUAGES AND TOOLS:<br>
 [![My Skills](https://skillicons.dev/icons?i=cs,java,cpp,js,html,css,react,threejs,bootstrap)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=unity,vscode,idea,visualstudio,ps,ai,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,vscode,idea,visualstudio,ps,ai)](https://skillicons.dev)
