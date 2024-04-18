@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 I'm Kamil
 
 <!--
 **MechanicalBuns/MechanicalBuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+- 🔭 I’m currently working on MySongMood (React.js Bootstrap)
+- 🌱 I’m currently learning React.js and expanding my knowledge of Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+<!--
+- 👯 I’m looking to collaborate
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-->
+- 📫 How to reach me: https://www.linkedin.com/in/kamil-trzepieci%C5%84ski-458098294/
+<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+LANGUAGES AND TOOLS:
+[![My Skills](https://skillicons.dev/icons?i=cs,java,cpp,js,html,css,react,bootstrap)](https://skillicons.dev)
