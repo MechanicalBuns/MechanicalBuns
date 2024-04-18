@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-LANGUAGES AND TOOLS:
-[![My Skills](https://skillicons.dev/icons?i=cs,java,cpp,js,html,css,react,bootstrap)](https://skillicons.dev)
+LANGUAGES AND TOOLS:<br>
+[![My Skills](https://skillicons.dev/icons?i=cs,java,cpp,js,html,css,react,threejs,bootstrap)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=unity,vscode,idea,vs,ps,ai,ae)](https://skillicons.dev)
